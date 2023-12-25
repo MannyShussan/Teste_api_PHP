@@ -1,0 +1,19 @@
+{
+    "name": "api/controler",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "API\\": "src/"
+        },
+        "files": [
+            "src/functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Flávio Miranda",
+            "email": "nascimentoflavio@hotmail.com"
+        }
+    ],
+    "require": {}
+}
