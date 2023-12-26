@@ -2,6 +2,7 @@ API desenvolvida para um sistema de IOT a fim de estudos.
 O uso do código é livre, eu o forneço completamente de forma gratuita para qualquer fim.
 
 #-=x=-Usuários:-=x=-
+
 ##Formato das Requisições:
 
 **GET =>** Requisições desse tipo são as mais simples, basta somente acrescentar ao fim da
