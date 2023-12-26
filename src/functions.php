@@ -6,7 +6,13 @@ function dbPass(string $table, string  $dbName): array
     return $arr;
 }
 
-// function key(): string
-// {
-//     return "0O02982IGTK3QWASMCHO";
-// }
+function timeSession(): int
+{
+    return 60 * 10;
+}
+
+function secretKey(): string
+{
+    $str = "0O02982IGTK3QWASMCHO";
+    return $str;
+}
